@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921240594099",
+    "project_id": "clearance-ee053",
+    "storage_bucket": "clearance-ee053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921240594099:android:a2bc1f249b09255a5b72c6",
+        "android_client_info": {
+          "package_name": "com.example.clearance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921240594099-8ppt6f4u5laps26k1nt123e2dp74b251.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clearance",
+            "certificate_hash": "93d563d942a7181610400bbe8fea41642c3f98e6"
+          }
+        },
+        {
+          "client_id": "921240594099-nm70fus0s5b2am7f3ckng6mvigdtl07j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjlEWOE4611FcnOjZtNSF-I08sJIPvtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921240594099-nm70fus0s5b2am7f3ckng6mvigdtl07j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

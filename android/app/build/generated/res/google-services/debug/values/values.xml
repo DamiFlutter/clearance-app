@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">921240594099-nm70fus0s5b2am7f3ckng6mvigdtl07j.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">921240594099</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSjlEWOE4611FcnOjZtNSF-I08sJIPvtE</string>
+    <string name="google_app_id" translatable="false">1:921240594099:android:a2bc1f249b09255a5b72c6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSjlEWOE4611FcnOjZtNSF-I08sJIPvtE</string>
+    <string name="google_storage_bucket" translatable="false">clearance-ee053.appspot.com</string>
+    <string name="project_id" translatable="false">clearance-ee053</string>
+</resources>
